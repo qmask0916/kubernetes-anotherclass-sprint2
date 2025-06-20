@@ -2,9 +2,9 @@
 replicaCount: 1
 
 image:
-  repository: 1pro/api-tester
+  repository: freedom98/api-tester
   pullPolicy: Always
-  tag: 1.0.0
+  tag: "git-250620.194936"
 
 resources:
   limits:
